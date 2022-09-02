@@ -1,0 +1,12 @@
+{
+    "name": "2048-game",
+    "version": "1.0.0",
+    "description": "2048 single player puzzle game",
+    "scripts": {
+        "start": "serve",
+    },
+    "dependencies": {
+        "serve": "^10.0.1"
+    },
+    "author": "Sweta Kumari"
+}
