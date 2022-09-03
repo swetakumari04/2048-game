@@ -1,7 +1,7 @@
-#2048-game
+##2048-game
 => single player puzzle game - 2048
 => Move the numbers with the help of the left right up and down keys from your keyboard
-#how to play?
+##how to play?
  Use your arrow keys to move the tiles. When two tiles with the same number touch, they merge into one!
  
 => before start
