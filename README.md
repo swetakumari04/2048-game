@@ -8,3 +8,4 @@
 
 # => after playing some move
 ![game1](https://user-images.githubusercontent.com/80638381/187662210-69f27cae-913f-4b9f-991b-d6aaa39f841a.jpeg)
+
